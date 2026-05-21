@@ -1,6 +1,8 @@
 # codon-optimizer
 Codon Optimizer tool which takes DNA/protein sequences and optimizes them with regards to their codon bias of the organism of choice. This improves protein expression and cloning efficiency.
 
+Access the app directly here: https://zany-carnival-xrxj7xwv65g3pwvj-8501.app.github.dev/
+
 Its an web application implemented in two different ways: as React/JavaScript and as Python /Streamlit project.
 Each has its pros and cons.
 React/JavaScript can be rendered in a browser and be instantly ready. To run it locally Node.js has to be installed and it is more difficult to embed hardcore bioinformatics pipelines.
